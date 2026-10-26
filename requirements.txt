@@ -1,0 +1,5 @@
+numpy>=1.24
+torch>=2.1
+gymnasium>=0.29
+matplotlib>=3.7
+pygame-ce>=2.4  # drop-in pygame build (import pygame); only needed for demo.py
